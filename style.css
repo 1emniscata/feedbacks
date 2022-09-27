@@ -1,0 +1,54 @@
+body,
+h1,
+p {
+    margin: 30px;
+    background-color: rgb(221, 200, 240);
+}
+
+h1 {
+    margin-left: 20px;
+    position: relative;
+    /* top: 50%; */
+    /* transform: translateY(-50%); */
+    /* -webkit-transform: translateY(-50%); */
+    /* -ms-transform: translateY(-50%); */
+}
+
+h2 {
+    margin-left: 20px;
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+div {
+    /* text-emphasis-color: rgb(255, 0, 0); */
+    margin: 20px;
+    margin-bottom: 10px;
+    /* font-size: 20px; */
+    /* border-style:dashed;
+    border-width: 1px; */
+    /* border-bottom: 5px; */
+}
+
+.feedback {
+    font-size: 20px;
+    font-weight: normal;
+
+}
+
+.second {
+    font-size: 20px;
+    ;
+}
+
+h1 span {
+    text-decoration: underline;
+    color: purple;
+}
+
+.section {
+    border-style: dashed;
+    border-width: 3px;
+    border-color: blueviolet;
+    border-radius: 20px;
+}
